@@ -2,9 +2,9 @@
 
 See PDF for the draft of the work on this topic. The project was done over the Summer of 2020 and will not be continued. 
 
-![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/video1.gif)
+![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/blob/main/video1.gif)
 
-![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/video2.gif)
+![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/blob/main/video2.gif)
 
 ## License
 
