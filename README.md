@@ -2,10 +2,12 @@
 
 See PDF for the draft of the work on this topic. The project was done over the Summer of 2020 and will not be continued. 
 
-### Video of channel 171Å from Atmospheric Imaging Assembly (AIA) with Helioseismic and Magnetic Imager (HMI) masked over it to study solar flares 
+# GIFs
+
+Video of channel 171Å from Atmospheric Imaging Assembly (AIA) with Helioseismic and Magnetic Imager (HMI) masked over it to study solar flares:
 ![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/blob/main/video1.gif)
 
-### Video of (1) noisy and (2) denoised imaging data
+Video of (1) noisy and (2) denoised imaging data:
 ![](https://github.com/mpenwarden/Heliophysical-Image-Denoise/blob/main/video2.gif)
 
 ## License
